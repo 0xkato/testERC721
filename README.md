@@ -1,4 +1,4 @@
-To run this you will need to download foundry first. here is a link (https://github.com/foundry-rs/foundry).</br>
+To run this you will need to download foundry first. here is a link <a href="https://github.com/foundry-rs/foundry">To the book</a>.</br>
 
 after downloading foundry run <code>foundryup</code>  </br>
 then check if you have forge and cast by running <code>forge --version</code> and <code>cast --version</code> </br>
